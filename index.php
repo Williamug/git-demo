@@ -8,7 +8,9 @@
 </head>
 
 <body>
-    <?= 'hello world' ?>
+<h1>
+    <?= 'Version control is the way to go' ?>
+</h1>
 </body>
 
 </html>
