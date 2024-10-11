@@ -1,1 +1,18 @@
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, amet iste rerum libero necessitatibus a quas inventore sequi porro deleniti quia dolore? Et ex eum ducimus aspernatur culpa, debitis voluptatem.
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+<h3>
+    This is the home page.
+</h3>
+<h2>
+
+</body>
+
+</html>
