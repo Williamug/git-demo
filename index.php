@@ -8,6 +8,8 @@
 </head>
 
 <body>
+    <?= 'hello world' ?>
+    There was code broke but fixed
 <h1>
     <?= 'Version control is the way to go' ?>
 </h1>
